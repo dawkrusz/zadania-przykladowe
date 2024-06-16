@@ -1,0 +1,8 @@
+com\mycompany\zadaniapliki\JsonUserSerializer.class
+com\mycompany\zadaniapliki\XmlUserSerializer.class
+com\mycompany\zadaniapliki\User.class
+com\mycompany\zadaniapliki\CsvUserSerializer.class
+interfejsy\UserSerializerInterface.class
+com\mycompany\zadaniapliki\Zadaniapliki.class
+com\mycompany\zadaniapliki\UserManager.class
+com\mycompany\zadaniapliki\BinaryUserSerializer.class
