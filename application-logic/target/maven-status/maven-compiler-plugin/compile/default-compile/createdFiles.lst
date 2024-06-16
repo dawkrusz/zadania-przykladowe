@@ -1,0 +1,3 @@
+com\mycompany\application\logic\CsvTaskRepository.class
+com\mycompany\application\logic\Main.class
+com\mycompany\application\logic\TaskServiceImpl.class

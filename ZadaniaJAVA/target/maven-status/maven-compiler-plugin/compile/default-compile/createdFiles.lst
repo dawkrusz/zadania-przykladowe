@@ -1,0 +1,7 @@
+com\mycompany\zadaniajava\CsvPersonReader.class
+interfejsy\PersonReader.class
+com\mycompany\zadaniajava\PersonAnalyzer.class
+interfejsy\PersonWriter.class
+com\mycompany\zadaniajava\Main.class
+com\mycompany\zadaniajava\TextPersonWriter.class
+com\mycompany\zadaniajava\Person.class

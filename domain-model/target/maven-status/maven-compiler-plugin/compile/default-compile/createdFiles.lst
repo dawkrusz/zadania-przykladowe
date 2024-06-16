@@ -1,0 +1,5 @@
+interfejsymodel\TaskService.class
+interfejsymodel\TaskRepository.class
+com\mycompany\domain\model\TaskType.class
+com\mycompany\domain\model\TaskPriorityComparator.class
+com\mycompany\domain\model\Task.class
