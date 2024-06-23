@@ -1,0 +1,6 @@
+com\mycompany\library\model\Book.class
+com\mycompany\library\model\Customer.class
+com\mycompany\library\model\Item.class
+com\mycompany\library\model\Rental.class
+com\mycompany\library\model\BoardGame.class
+com\mycompany\library\model\LibraryModel.class
