@@ -1,0 +1,4 @@
+interfejsy_domain\Rentable.class
+com\mycompany\library\domain\Book.class
+com\mycompany\library\domain\BoardGame.class
+com\mycompany\library\domain\Rental.class
